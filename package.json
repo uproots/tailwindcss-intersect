@@ -1,5 +1,6 @@
 {
   "name": "@uprootsai/tailwindcss-intersect",
+  "version": "0.0.1",
   "description": "Tailwind CSS with Intersection Observer variants",
   "author": "Lars Heidkämper",
   "license": "MIT",
