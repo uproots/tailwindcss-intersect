@@ -24,7 +24,7 @@ await esbuild.build({
 
 await esbuild.build({
     entryPoints: ['src/index.js'],
-    outfile: 'dist/index.cjs.js',
+    outfile: 'dist/index.cjs',
     bundle: true,
     platform: 'node',
     target: ['node10.4'],
